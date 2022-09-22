@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 To offer designer eyewear at a revolutionary price while leading the way for socially conscious businesses.
+=======
+To offer revolutionary, but competitively priced eyewear while also paving the way for morally conscious business.
+>>>>>>> base-statement
